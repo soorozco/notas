@@ -1,0 +1,5 @@
+{
+  "name": "Aplicación de Notas Sencilla",
+  "description": "Una aplicación de bloc de notas simple y estéticamente agradable para crear, editar, anclar y eliminar notas. Las notas se guardan en el almacenamiento local de su navegador.",
+  "requestFramePermissions": []
+}
